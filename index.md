@@ -9,6 +9,8 @@
 - 选择主题
 - 确定，找到网址，发布ok
 
+# 休息一下，10：40 继续上课
+
 You can use the [editor on GitHub](https://github.com/data678/blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
